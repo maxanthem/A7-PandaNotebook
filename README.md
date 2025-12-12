@@ -3,7 +3,7 @@
 
 A 16-page A7 pocket notebook you can make from a single A4 sheet.
 
-<img src="images/panda.png" alt="A cute Panda" width="50%"/>
+<img src="images/panda.png" alt="A cute Panda" width="30%"/>
 
 ## Specifications
 
