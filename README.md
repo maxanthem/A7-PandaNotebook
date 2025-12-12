@@ -1,5 +1,19 @@
 # Panda Notebook
+
 A 16 pages A7 pocket notebook to create from an A4 sheet.
+
+![panda.png](images/panda.png){width=10%}
+
+## Content
+
+- The notebook is slightly smaller than A7 (due to the cuts): roughly 10cm x 7cm.
+- It has 16 numbered pages...
+    - ...including a cute front cover.
+    - The pages 2 to 16 have a 5mm grid.
+
+![Notebook closed compared to the size of a credit card](images/notebook_closed.jpg){width=40%}
+
+![Notebook open compared to the size of a credit card](images/notebook_open.jpg "Notebook open compared to the size of a credit card"){width=40%}
 
 ## Requirements
 
@@ -10,8 +24,7 @@ A 16 pages A7 pocket notebook to create from an A4 sheet.
 
 ## Instructions
 
-**_Optional_**: edit the vector graphic template [A7-PandaNotebook.svg](A7-PandaNotebook.svg) if needed. It was created with the free and open source software [Inkscape](https://inkscape.org/), after observing how pages behave when folding an A4 sheet into A7. If needed, export to PDF at the end.
-
+**_Optional_**: edit the vector graphic template [A7-PandaNotebook.svg](images/A7-PandaNotebook.svg) if needed. It was created with the free and open source software [Inkscape](https://inkscape.org/), after observing how pages behave when folding an A4 sheet into A7. If needed, export to PDF at the end.
 
 The instructions are summarized here:
 
@@ -21,13 +34,10 @@ The instructions are summarized here:
 
 Print the template PDF [A7-PandaNotebook.pdf](A7-PandaNotebook.pdf) **double-sided** on an A4 sheet, **no scaling** (the template PDF is already A4).
 
-
 ### 2. Folding 📃
-
 Following the small squares with the numbers "1", "2" and "3", create the 1st, 2nd and 3rd folds (e.g. the two "1" have to touch each other).
 
 **Remark**: Make the folds as precise as possible by using the middle line on the other side of the number, which becomes an edge once folded. Preferably don't use the outer edges of the A4 sheet, because most printers don't center perfectly the prints.
-
 
 ### 3. Stapling 📌
 
@@ -36,6 +46,14 @@ If you stapler is too small to reach the middle line, you can gently fold the pa
 
 ### 4. Cutting ✂️
 
+Using scissors, or better: a paper cutter, cut few millimeters of the two edges that are closed to open them.
+
+Tada! You are the happy owner of a tiny cute notebook that fits in your pocket!
+
+## Questions and Answers ❔
+
+- _Why **panda** notebook?_
+    - Because it's black and white, I like monochrome; black ink on white paper. Also because a panda embodies being chill and taking things easy. Be a panda.
 
 ## License
 
@@ -52,4 +70,5 @@ Under the following terms:
 
 For more information, see the [full license text](LICENSE).
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
