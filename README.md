@@ -2,7 +2,7 @@
 
 A 16 pages A7 pocket notebook to create from an A4 sheet.
 
-![panda.png](images/panda.png){width=10%}
+![panda.png](images/panda.png)
 
 ## Content
 
@@ -11,9 +11,7 @@ A 16 pages A7 pocket notebook to create from an A4 sheet.
     - ...including a cute front cover.
     - The pages 2 to 16 have a 5mm grid.
 
-![Notebook closed compared to the size of a credit card](images/notebook_closed.jpg){width=40%}
-
-![Notebook open compared to the size of a credit card](images/notebook_open.jpg "Notebook open compared to the size of a credit card"){width=40%}
+![Notebook closed compared to the size of a credit card](images/notebook.jpg)
 
 ## Requirements
 
