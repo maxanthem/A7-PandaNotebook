@@ -2,7 +2,7 @@
 
 A 16 pages A7 pocket notebook to create from an A4 sheet.
 
-![panda.png](images/panda.png)
+<img src="images/panda.png" alt="A cute Panda" width="50%"/>
 
 ## Content
 
