@@ -1,17 +1,18 @@
 # Panda Notebook
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-A 16 pages A7 pocket notebook to make yourself from an A4 sheet.
+A 16-page A7 pocket notebook you can make from a single A4 sheet.
 
 <img src="images/panda.png" alt="A cute Panda" width="50%"/>
 
-## Content
+## Specifications
 
-- The notebook is slightly smaller than A7 (due to the cuts): roughly 10cm x 7cm.
+- The notebook ends up slightly smaller than A7 (due to trimming): roughly 10 cm x 7 cm.
 - It has 16 numbered pages...
     - ...including a cute front cover.
-    - The pages 2 to 16 have a 5mm grid.
+    - Pages 2 to 16 have a 5 mm grid.
 
+Here is how the notebook looks like
 ![Notebook closed compared to the size of a credit card](images/notebook.jpg)
 
 ## Requirements
@@ -34,23 +35,23 @@ The instructions are summarized here:
 Print the template PDF [A7-PandaNotebook.pdf](A7-PandaNotebook.pdf) **double-sided** on an A4 sheet, **no scaling** (the template PDF is already A4).
 
 ### 2. Folding 📃
-Following the small squares printed with the numbers "1", "2" and "3", create the 1st, 2nd and 3rd folds. For instance, the two "1" have to touch each other.
+Using the small squares labeled "1", "2", and "3", make the three folds. For instance, the two "1" have to touch each other.
 
-**Remark**: Make the folds as precise as possible by using the middle line on the other side of the number, which becomes an edge once folded. Preferably don't use the outer edges of the A4 sheet, because most printers don't perfectly center prints.
+**Remark**: Use the center line on the reverse side of each number as a guide; it becomes the edge once folded. Avoid using the sheet’s outer edges as reference points; most printers don’t perfectly center prints.
 
 ### 3. Stapling 📌
 
-Using a desk stapler, or even with bookbinding tools (piercing awl, needle and thread), create the binding. If you use a stapler, I recommand two staples (each 2cm from the border).
+Using a desk stapler, or even with bookbinding tools (piercing awl, needle and thread), create the binding. If you use a stapler, I recommend two staples (each about 2 cm from the border).
 
-**Remark**: If you stapler is too small to reach the middle line and you cannot open your stapler wide open, you can gently fold the pages without too much pressure to make it fit in the staple, as shown below:
+**Remark**: If your stapler is too small to reach the middle line, and you cannot open your stapler fully, you can gently bend the pages to make them fit into the stapler, as shown below:
 
 ![staple_fold.png](images/staple_fold.png)
 
 ### 4. Cutting ✂️
 
-Using scissors, or better: a paper cutter, cut few millimeters of the two edges that are closed to open them.
+Using scissors, or better: a paper cutter, cut a few millimeters of the two closed edges to open them.
 
-_Tada!_ You are now the happy owner of a tiny cute notebook that fits in your pocket!
+_Et voilà!_ You now have a tiny, cute notebook that fits in your pocket!
 
 ## Roadmap
 
@@ -60,21 +61,21 @@ _Tada!_ You are now the happy owner of a tiny cute notebook that fits in your po
 - A8 template
     - [x] Experiment and create the template
     - [ ] Open source it
-- Tool for automatic creation of custom A5 to A8 template (eg different template for each page, custom front cover)
+- Tool for automatically creating custom A5–A8 templates (e.g., different layout per page, custom cover)
     - [ ] Create a script
     - [ ] Open source it
-    - [ ] Host it for everyone to use it
+    - [ ] Host it for everyone to use
 
 ## FAQ
 
 - _Why **panda** notebook?_
-    - Because it's black and white, I like monochrome, like black ink on white paper.
+    - Because it's black and white, I like monochrome aesthetics, like black ink on white paper.
     - Also because a panda embodies being chill and taking things easy.
     - Be a panda.
-- _Why would you even create this? What's the point??_
+- _Why create this? What's the point??_
     - Because I'm trying to be less distracted by my phone but still be able to quickly note down ideas, references (books, movies, podcasts, ...) to process later.
-    - I realized that a lot of existing notebooks (either digital templates or physical notebooks) are either paid, or limited. For instance, I like the idea of the [PocketMode](https://pocketmod.com/), but I prefer to have more and nicer pages.
-    - I started creating my own tiny notebook by folding, binding and cutting A4 sheets (it reminded me of my childhood in school...), and I found them so cool that I wanted to share them.
+    - I realized that a lot of existing notebooks (either digital templates or physical notebooks) are either paid, or limited. For instance, I like the idea of the [PocketMod](https://pocketmod.com/), but I prefer to have more and nicer pages.
+    - I started making my own tiny notebooks by folding, binding, and trimming A4 sheets (it reminded me of school), and I found them so useful and fun that I wanted to share them.
 
 ## License
 
@@ -89,6 +90,6 @@ Under the following terms:
 - **NonCommercial** — You may not use the material for commercial purposes.
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-For more information, see the [full license text](LICENSE).
+For the full licence text, see [LICENSE](LICENSE).
 
 
