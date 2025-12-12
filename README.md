@@ -7,13 +7,14 @@ A 16-page A7 pocket notebook you can make from a single A4 sheet.
 
 ## Specifications
 
+Here is how the notebook looks like
+![Notebook closed compared to the size of a credit card](images/notebook.jpg)
+
 - The notebook ends up slightly smaller than A7 (due to trimming): roughly 10 cm x 7 cm.
 - It has 16 numbered pages...
     - ...including a cute front cover.
     - Pages 2 to 16 have a 5 mm grid.
 
-Here is how the notebook looks like
-![Notebook closed compared to the size of a credit card](images/notebook.jpg)
 
 ## Requirements
 
